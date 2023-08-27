@@ -1,0 +1,9 @@
+Sure! Here's the list of files required for a basic Todo App Python project:
+- app.py
+- config.py
+- database.py
+- forms.py
+- functions.py
+- main.py
+- models.py
+- tests.py
